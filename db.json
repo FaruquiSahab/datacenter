@@ -1,0 +1,12 @@
+{
+	"dataCenteres":[
+		{"id":"1", "name":"Karachi"},
+    {"id":"2", "name":"Islamabad"}
+	],
+	"zones":[
+		{"id":"1", "dataCenterId":"1", "name":"KHI01"},
+		{"id":"2", "dataCenterId":"1", "name":"KHI02"},
+		{"id":"3", "dataCenterId":"2", "name":"ISB01"},
+		{"id":"4", "dataCenterId":"2", "name":"ISB02"}
+	]
+}
